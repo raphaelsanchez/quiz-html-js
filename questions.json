@@ -1,0 +1,26 @@
+{
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "choices": ["Paris", "Berlin", "London", "Madrid"],
+        "correctAnswer": "Paris",
+        "explanation": "The capital of France is Paris.",
+        "explanationImage": "https://via.placeholder.com/400"
+      },
+      {
+        "question": "What is the largest mammal?",
+        "choices": ["Elephant", "Whale", "Giraffe", "Hippopotamus"],
+        "correctAnswer": "Whale",
+        "explanation": "The largest mammal is the whale.",
+        "explanationImage": "https://via.placeholder.com/400"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "choices": ["Venus", "Jupiter", "Mars", "Saturn"],
+        "correctAnswer": "Mars",
+        "explanation": "Mars is known as the Red Planet.",
+        "explanationImage": "https://via.placeholder.com/400"
+      }
+    ]
+  }
+  
